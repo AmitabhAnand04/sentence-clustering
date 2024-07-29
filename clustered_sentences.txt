@@ -1,0 +1,550 @@
+Cluster 4:
+  - List down the insureds on policy  
+  - List down the insureds on policy number 1330740? 
+  - What is the address and email of the primary insured for policy number 1330744??
+  - Who is the primary insured on policy number 1330744? 
+  - What is the name of the primary insured for policy number 1330744?
+  - What does my Home insurance cover?
+  - Can I bundle my homeowners insurance with other types of insurance for a discount with my policy number 1330981?
+  - Does my policy 1330981 meet the insurance requirements set by my mortgage lender?
+  - Does my policy 1331394 cover liability claims if someone is injured on my property, and what is the coverage limit?
+  - How can I add my spouse to my existing life insurance policy 1330961.
+  - How does the claims process work for my pet insurance policy 1331033.
+  - List down all the insured individuals for policy number 1330740.
+  - List down all the insureds with the same address as the primary insured. (Account Number: Z011332846, Policy Number: 1332846)
+  - List down all the primary insureds for my policy number 1330744
+  - List down all the primary insureds on my policies. (Account Number: Z011686942, Policy Number: 1686942)
+  - List down the insured other than the primary insured for my policy number 1330744.
+  - List down the insureds on policy number 1330740?
+  - List down the names of all the primary insureds for all my policies.
+  - List down the names of all the primary insureds for policy number 1330740.
+  - List down the names of all the primary insureds for policy number 1330744.
+  - List down the names of all the primary insureds for policy number 1330755.
+  - List down the primary insured for my policy number 1330740.
+  - List down the primary insured's information for PolicyNumber 1330744.
+  - List down the primary insured's information for policy number 1330765.
+  - List the names and roles of insured persons other than the primary insured for my policy
+  - Show me all my insureds for my policy number 1330740.
+  - Show me all my primary insureds for my policy number 1330740
+  - Show me all my primary insureds for my policy number 1330740.
+  - Show me the agency, policy details, and primary insured information for my policy. (Account Number: Z011330776, Policy Number: 1330776)
+  - Show me the contact information of the primary insured on my policy. (Account Number: Z011331297, Policy Number: 1331297)
+  - Show me the details of the agency associated with PolicyNumber 1330744 and the primary insured's name.
+  - Show me the details of the agency associated with policy number 1330744 and the primary insured's name.
+  - Show me the details of the insureds for my policy number 1330740
+  - Show me the details of the insureds for my policy number 1330740.
+  - Show me the details of the primary insured for my policy number 1330740.
+  - Show me the details of the primary insured for my policy number 1330744.
+  - Show me the primary insured details for my policy with policy number 1330740.
+  - Show me the primary insured details for my policy with policy number 1330755.
+  - Show me the primary insured details for my policy with policy number 1330765.
+  - Show me the primary insured details for my policy with policy number 1330775.
+  - Show me the primary insured details for my policy with policy number 1330781.
+  - Show me the primary insured details for my policy with policy number 1330807.
+  - What are the contact details of the primary insured for policy number 1330807
+  - What does my Home insurance cover?
+  - What is the address of the primary insured for policy number 1330744?
+  - What is the address of the primary insured on my policy? (Account Number: Z051331550, Policy Number: 1331550)
+  - What is the email ID of the primary insured on policy number 1330740?
+  - What is the name of the insured with the role of 'Named Insured' for policy number 1330740?
+  - What is the name of the insureds for policy number 1330740?
+  - What is the name of the primary insured for policy number 1330740?
+  - What is the name of the primary insured for policy number 1330744?
+  - What is the process for filing a claim, and how are damages assessed with my policy number 1331256?
+  - What liability coverage does my policy 1331392 include?
+  - Which insured has the role of 'Named Insured' for policy number 1330740?
+  - Which insured other than the primary insured is associated with my policy number 1330740?
+  - Which other insured individuals are associated with PolicyNumber 1330740?
+  - Which other insured individuals are associated with policy number 1330781?
+  - Which policy has [Name] as an insured and a risk with location unit number [LocationUnitNumber]? (Account Number: Z011331169, Policy Number: 5330989)
+  - Which policy has [Name] as the primary insured and [CoverageCode] as a coverage? (Account Number: Z015350663, Policy Number: 1331647)
+  - Which policy has [Name] as the primary insured and a risk with location unit number [LocationUnitNumber] and coverage code [CoverageCode]? (Account Number: Z011331513, Policy Number: 9804058)
+  - Which policy has [Name] as the primary insured and a supporting policy with policy number [SupportingPolicyNumber]? (Account Number: Z015341250, Policy Number: 1332437)
+  - Which policy has [Name] as the primary insured? (Account Number: Z011332000, Policy Number: 1332000)
+  - Who are all insureds other than primary insureds?
+  - Who are all the insured on my policies
+  - Who are all the insured persons on policy number 1330740?
+  - Who are insureds and primary insureds for policy number 1330740?
+  - Who are primary insured for my policy number 1330744?
+  - Who are the insured other than primary
+  - Who are the primary insured on my policies
+  - Who is the primary insured on policy number 1330744?
+  - who is the primary insured in my policy
+
+Cluster 0:
+  - What are the supporting policies for my policy number 1330744??
+  - What does my policy cover?
+  - What is the description of coverage ID APV133074428|001 in my policy number 1330744?
+  - Which agency manages my policy number 1330744?
+  - Show me all my policies
+  - What are coverages of my policy
+  - What does my policy 1330740 cover?
+  - What is the count of policies linked to my account?
+  - What policies are under my account?
+  - Which agency manages my policy number 1330744?
+  - Which supporting policies are linked to my policy
+  - List down all my policies.
+  - Who is the Agent of my Auto policy 1330740?
+  - Who is the Agent of my policy?
+  - Are there any recent changes in laws or regulations that could affect my policy or coverage needs?
+  - Are there any specific steps I need to follow to ensure my claim is approved with my policy number 1331297?
+  - Are there online resources or tools to help manage my policy 1330981?
+  - Can I customize my policy 1330975 to include additional coverage for high-value items or specific risks?
+  - Can I customize my policy 1331202 to include additional coverage for specific valuables or risks?
+  - Can I customize my policy 1331249 to include additional coverage for specific valuables or risks?
+  - Can I customize the APV policy to better fit my needs with my policy number 1331297?
+  - Do I have an Umbrella policy?
+  - Do I have any supporting policies
+  - Does my APV policy 1331297 meet all state and federal insurance requirements?
+  - How can I make changes to my policy 1331394, and are there fees associated with making changes?
+  - How do I contact Policy Agent for my policy 1330740
+  - How do I file a claim for my policy with policy number 1330790
+  - How do I file a claim for my policy with policy number 1330807
+  - How do I file a claim for my policy with policy number 1331202.
+  - How many policies do I have
+  - Is my policy with policy number 1330775 active or inactive?? 
+  - Is there a dedicated customer support line or representative for APV policyholders with my policy number 1331297?
+  - Is there an option to upgrade to replacement cost coverage if it's not included with my policy number 1331342?
+  - List down all my policies
+  - List down all my policies and what is their status?
+  - List down all my policies.
+  - List down all the coverages associated with policy number 1330740.
+  - List down all the policies that have expired in the last 8 months alongwith their coverage description.
+  - List down all the supporting policies for policy number 1330744.
+  - List down the coverage details for my policy with policy number 1330740.
+  - List down the coverage details for my policy with policy number 1330755.
+  - List down the coverage details for my policy with policy number 1330765.
+  - List down the coverage details for my policy with policy number 1330775.
+  - List down the coverage details for my policy with policy number 1330781.
+  - List down the coverage details for my policy with policy number 1330807.
+  - List down the coverage details for my policy with policy number 1331171.
+  - List down the coverages associated with my policy number 1330740.
+  - List down the coverages associated with my policy number 1330744.
+  - Show me all my policies.
+  - Show me the details of all the supporting policies for policy number 1330740.
+  - Show me the details of any supporting policies for PolicyNumber 1330744.
+  - Show me the details of any supporting policies for policy number 1330755.
+  - Show me the details of my policy with policy number 1330740.
+  - Show me the details of my policy with policy number 1330740. 
+  - Show me the details of my policy with policy number 1330755.
+  - Show me the details of my policy with policy number 1330765.
+  - Show me the details of my policy with policy number 1330775.
+  - Show me the details of my policy with policy number 1330781.
+  - Show me the details of my policy with policy number 1330807.
+  - Show me the details of my policy.
+  - Show me the recent changes in laws or regulations in detail that could affect my policy or coverage needs?
+  - Show me the recent changes in laws or regulations that could affect my policy or coverage needs?
+  - Show me the supporting policies associated with my policy number 1330740.
+  - Test of all my policies.
+  - What are the deductibles for my policy
+  - What are the deductibles for my policy 
+  - What are the supporting policies for my policies?
+  - What are the supporting policies for my policy number 1330744?
+  - What are the supporting policy for  1330740?
+  - What coverages are included in my policy number 1330744?
+  - What does my policy 1330740 cover?
+  - What does my policy 1330744 cover?
+  - What does my policy 1330745 cover?
+  - What does my policy cover?
+  - What does my policy cover??
+  - What does my policy number 1330744 cover?
+  - What does this policy cover with policy number 1331190.
+  - What does this policy cover?
+  - What information is typically included in a policy's details, policy number 1331038.
+  - What information is typically included in a policy's details, policy number 1331083.
+  - What is my policy benefit of policy number 1331089.
+  - What is the CoverageDescription for policy number 1330776?
+  - What is the count of policies linked to my account?
+  - What is the coverage for policy number 1330740
+  - What is the coverage for policy number 1330744?
+  - What is the current status of PolicyNumber 1330744?
+  - What is the current status of my policy with policy number 1330740?
+  - What is the current status of policy number 1330775?
+  - What is the description of coverage ID APV133074428|001 in my policy number 1330744?
+  - What is the policy role of ANN LAMPKINS for policy number 1330740?
+  - What is the policy role of ANN LAMPKINS for policy number 1330744?
+  - What is the status of all my policies
+  - What is the status of all my policies?
+  - What is the status of my policies?
+  - What is the status of my policy
+  - What is the status of my policy number 1330740?
+  - What is the status of my policy number 1331083.
+  - What is the status of the claim made on my policy with policy number 1330765
+  - What is the status of the claim made on my policy with policy number 1330790
+  - What is the status of the claim made on my policy with policy number 1330807
+  - What is the status of the claim made on my policy with policy number 1331202.
+  - What policies are under my account?
+  - Which agency is handling my policy and show details of that agency.
+  - Which agency is handling my policy with policy number 1330744?
+  - Which agency is handling my policy with policy number 1330764?
+  - Which agency is handling my policy with policy number 1330767?
+  - Which agency is handling my policy with policy number 1330776?
+  - Which agency is handling my policy with policy number 1330790?
+  - Which agency is handling my policy with policy number 1330865?
+  - Which agency is handling my policy with policy number 1331038?
+  - Which agency is handling my policy?
+  - Which agency issued policy number 1330744?
+  - Which agency manages my policy number 1330744?
+  - Which are policies active and show their risks and coverages in my account?
+  - Which policy has [SupportingPolicyNumber] as a supporting policy? (Account Number: Z011332549, Policy Number: 1332528)
+  - Which supporting policies are associated with my policy number 1330744?
+  - Which supporting policies are linked to my policy with policy number 1330744?
+  - Which supporting policies are linked to my policy with policy number 1330755?
+  - Which supporting policies are linked to my policy with policy number 1330764?
+  - Which supporting policies are linked to my policy with policy number 1330767?
+  - Which supporting policies are linked to my policy with policy number 1330776?
+  - Which supporting policies are linked to my policy with policy number 1330790?
+  - Which supporting policies are linked to my policy with policy number 1330865?
+  - Which supporting policies are linked to my policy with policy number 1686942,?
+  - Which type of policy me taken?
+  - Who is the Agent of my  policy?
+  - Who is the Agent of my policy?
+  - all policies
+  - what are my policy numbers
+
+Cluster 7:
+  - What is the contact information for the agency managing my policy number 1330740??
+  - 1330740
+  - 1330744
+  - 1330767
+  - Account number.
+  - Is my account number.
+  - Is there a mobile app or online portal for managing claims with my policy number 1331297?
+  - List down all the policies with a specific line of business and a supporting policy with a specific line of business. (Account Number: Z011332194, Policy Number: 1332194)
+  - Show in table format the descriptions of covarage associated with my policy in respect of Covarage ID.
+  - Show me the address and phone number of the agency handling my policy. (Account Number: Z011332230, Policy Number: 9101871)
+  - Show me the address of the agency that issued policy number 1330740.
+  - Show me the agency, policy details, and supporting policy details for my policy with supporting policy effective date [SupportingPolicyEffectiveDate]. (Account Number: Z011332712, Policy Number: 1332712)
+  - Show me the agent details of my account.
+  - Show me the agent details of this account holder.
+  - Show me the details of my account number Z011331297.
+  - Show me the details of my account.
+  - Show me the details of my policy with account number Z011330776.
+  - Show me the details of my policy, including the line of business, term number, and premium due. (Account Number: Z011331033, Policy Number: 1331033)
+  - Show me the details of the agency associated with PolicyNumber 1330740.
+  - Show me the details of the agency associated with my policy number 1330740.
+  - Show me the details of the agency associated with policy number 1330740.
+  - Show me the details of the agency associated with policy number 1330790.
+  - Show me the details of this account.
+  - Show me the policies of my account.
+  - Show me the policy details  of my account with policy number 1330975.
+  - Show me the policy details  of my account with policy number 1330981.
+  - Show me the policy details  of my account with policy number 1331297.
+  - Show me the policy details  of my account with policy number 1331342.
+  - Show me the policy details  of my account with policy number 1331392.
+  - Show me the policy details  of my account with policy number 1331394.
+  - Show me the policy details of my account Z011331202.
+  - Show me the policy details of my account Z011331256.
+  - Show me the policy details of my account Z011331297.
+  - Show me the policy details of my account Z011468689.
+  - Show me the policy details of my account number Z011331297.
+  - Show me the policy details of my account with policy number 1330975.
+  - Show me the policy details with policy name of my account with policy number 1330975.
+  - Show me the policy name of my account Z011331297.
+  - Show me the whole policy details of my account Z011331202.
+  - Show the descriptions of covarage ID in the covarage associated with my policy.
+  - Show the descriptions of covarage associated with my policy in respect of Covarage ID.
+  - Show the policies associated with my account
+  - What is my account number?
+  - What is the agency, policy details, and supporting policy details for my policy with supporting policy expiration date [SupportingPolicyExpirationDate]? (Account Number: Z011332048, Policy Number: 1332048)
+  - What is the agency, policy details, and supporting policy details for my policy with supporting policy number [SupportingPolicyNumber]? (Account Number: Z011332000, Policy Number: 1332000)
+  - What is the contact information for the agency managing my policy number 1330740?
+  - What is the email address of the agency associated with my policy? (Account Number: Z011331033, Policy Number: 1331033)
+  - What is the payment frequency for my policy with account number Z011330776 and policy number 1330775
+  - What is the role of [Name] on my policy? (Account Number: Z011357988, Policy Number: 1332927)
+  - What is the status of all my polic number 1330740?
+  - Which agency is handling my policy with account number Z011330744 and policy number 1330740?
+  - Which agency is responsible for my policy with policy number [PolicyNumber]? (Account Number: Z011332047, Policy Number: 1332047)
+  - Which type of policy I attached to my account Z011331297.
+  - Which type of policy me taken with account number Z011331202?
+  - Which type of policy me taken with account number Z051331190.
+  - Which type of policy this account holder taken?
+  - Z011330744
+  - Z011330767
+  - fetching details of account number : 10009
+  - fetching details of account number : Z011330744
+  - z011330744
+
+Cluster 3:
+  - What is the risk associated with policy number 1330744?
+  - What are the risks associated with my policy number 1330744?
+  - How does my policy 1331033 address risks associated with car insurance.
+  - List down all the risks for my account number
+  - List down all the risks for my policy with a specific coverage. (Account Number: Z011330765, Policy Number: 1330765)
+  - List down the risks associated with PolicyNumber 1330744 and their corresponding coverage descriptions.
+  - List down the risks associated with my policy number 1330740 and coverage ID HO 133074014|000.
+  - List down the risks associated with my policy number 1330744 and coverage ID HO 133074014|000.
+  - List down the risks associated with my policy with policy number 1330740.
+  - List down the risks associated with my policy with policy number 1330755.
+  - List down the risks associated with my policy with policy number 1330765.
+  - List down the risks associated with my policy with policy number 1330775.
+  - List down the risks associated with my policy with policy number 1330781.
+  - List down the risks associated with my policy with policy number 1330807.
+  - List down the risks associated with policy number 1330865 and their corresponding coverage descriptions.
+  - List down the risks, coverages for policy number 1330744. Also find the due date for my policy number 1330740 
+  - List down the risks, coverages for policy number 1330744. Also show me the due date for my policy number 1330740 
+  - Mention the risks associated with my policy 1330744?
+  - Show me risks with my policy numbers
+  - Show me the risks associated with my account.
+  - Show me the risks associated with my policy number 1330744.
+  - Show me the risks associated with my policy number 1330755.
+  - Show me the risks associated with my policy number 1331028.
+  - Show me the risks associated with policy number 1330740 and coverage ID HO 133074014|000.
+  - Show me the risks associated with policy number 1330744 and coverage ID APV133074428|001.
+  - Show me the risks of my policy.
+  - What are risks associated with a policy documented in the system policy number 1331132.
+  - What are risks associated with a policy documented in the system policy number 1331168.
+  - What are the risks and coverages for my policy number 1330744?
+  - What are the risks and coverages for policy number 1330744?
+  - What are the risks associated for my Policy Number 1330744?
+  - What are the risks associated with my policy number 1330740
+  - What are the risks associated with my policy number 1330744?
+  - What are the risks associated with policy number 1330744.
+  - What is the coverage and risk details for my policy with policy number [PolicyNumber]? (Account Number: Z011331440, Policy Number: 1331440)
+  - What is the risk associated with policies?
+  - What is the risk associated with policy number 1330744?
+  - What specific perils does the APV policy cover?
+  - Which policy has a risk with location unit number [LocationUnitNumber]? (Account Number: Z011332000, Policy Number: 1332213)
+  - Which risks are associated with my policy number 1330740 and coverage ID APV133074428|001?
+  - Which risks are associated with my policy number 1330744 and coverage ID APV133074428|001?
+
+Cluster 2:
+  - Which policy number is active for more than 1 year?
+  - Can you tell me the expiration date of my policy?
+  - Could you provide the expiration date for my policy?
+  - Show me the due date of my policies
+  - What is the due date of my policy
+  - What is the expiry date of my policy?
+  - What is the payment frequency for my policy 
+  - What is the payment frequency for my policy number 1330744
+  - What is the payment frequency for my policy number 1330744?
+  - When does my current policy term finish?
+  - When does my policy expire for each of my policy
+  - When does my policy expire?
+  - What is the end date for my current policy coverage?
+  - Can I make changes to my policy 1331394 at any time, or is there a specific renewal period?
+  - Can you let me know when my policy is set to expire?
+  - Can you tell me the expiration date of my policy?
+  - Could you provide the expiration date for my policy?
+  - Has my policy with policy number 1330767 been renewed or is it due for renewal ? 
+  - How much time is left until my policy expires?
+  - How often should I review and update my policy 1331202?
+  - How often should I review and update my policy 1331249?
+  - How often should I review my coverage with my policy number 1331342?
+  - How often should I review my policy 1331394 to ensure I'm getting the best rate and coverage?
+  - What happens if I decide to cancel my policy 1331394 before it expires? Are there any penalties?
+  - What is my payment frequency for my policy 1330740
+  - What is my payment frequency for my policy 1330744 ?
+  - What is my payment frequency for my policy number 1330744 ?
+  - What is the effective date and expiration date of my policy? (Account Number: Z011330975, Policy Number: 1330975)
+  - What is the effective date for my policy number 1330744?
+  - What is the effective date of my policy number 1330740?
+  - What is the effective date of my policy number 1330865?
+  - What is the effective date of my policy with policy number 1330744?
+  - What is the effective date of my policy with policy number 1330764?
+  - What is the effective date of my policy with policy number 1330767?
+  - What is the effective date of my policy with policy number 1330776?
+  - What is the effective date of my policy with policy number 1330790?
+  - What is the effective date of my policy with policy number 1330865?
+  - What is the effective date of my policy?
+  - What is the effective date of the supporting policy with policy number [SupportingPolicyNumber]? (Account Number: Z011331033, Policy Number: 1331033)
+  - What is the end date for my current policy coverage?
+  - What is the expiry date of my policy?
+  - What is the payment frequency for my policy number 1330744?
+  - What is the payment frequency for my policy number 1330776?
+  - What is the payment frequency for my policy with policy number 1330764?
+  - What is the process for filing a claim, and how long does it typically take to receive compensation of my policy 1331202?
+  - What is the process for filing a claim, and how long does it typically take to receive compensation of my policy 1331249?
+  - When does my current policy term finish?
+  - When does my current policy term finish? Show the policy numbers in the results.
+  - When does my policy  expire?
+  - When does my policy expire?
+  - When does my policy number 1330744 expire?
+  - When does my policy number 1330744 expire??
+  - When does my policy number 1330807 expire?
+  - When does my policy term finish? Show the policy numbers and expiry dates in the results.
+  - When does my policy term finish? Show the policy numbers in the results.
+  - When is my expiry date of policy
+  - When is my policy expiring?
+  - When is my policy number 1330740 expiring?
+  - When is the end date of my policy?
+  - When is the next renewal date for my home insurance policy 1330961.
+  - When will my policy come to an end?
+  - Which policies have the due date in the next 30days?
+  - Which policies have the due date in the next 30days? 
+  - Which policy has the due date in the next 30days?
+  - Which policy number is active for more than 1 year?
+  - show me the due date for my policy number 1330740 
+  - when does my policy expire
+  - when will my policy expire
+
+Cluster 6:
+  - Can you list the vehicles included in my auto policy?
+  - Can you list the vehicles included in my auto policy? Can you list the vehicles included in my auto policy? Can you list the vehicles included in my auto policy? Can you list the vehicles included in my auto policy? Can you list the vehicles included in my auto policy? Can you list the vehicles included in my auto policy?
+  - Do I have collision coverage? 
+  - Which coverages are covered under my vehicle for my policy number 1330740?
+  - Who are the drivers listed on my policy?
+  - Can I add another vehicle to my policy with policy number 1330740
+  - Can I add another vehicle to my policy with policy number 1330740? 1330865
+  - Can I add another vehicle to my policy with policy number 1330865
+  - Can I add another vehicle to my policy with policy number 1331202.
+  - Can I add another vehicle to my policy?
+  - Can you list the vehicles included in my auto policy?
+  - Do I have COLLISION coverage?
+  - Do I have collision coverage?
+  - Do I have collision coverage? 
+  - Do i have a auto policy?
+  - Do i have a collision coverage?
+  - Do i have collision coverage?
+  - How does the APV policy 1331297 compare with other types of vehicle insurance policies you offer??
+  - How does the claims process work for my car insurance policy 1331033.
+  - How many vehicles registered to my policy 1330975 and show me the vehicles details.
+  - How many vehicles registered to my policy 1330975?
+  - Is Daks insured as a driver?
+  - Is there a Toyota RAV4 under my policy?
+  - List down all the policies with a specific line of business and a risk with vehicle make [VehicleMake]. (Account Number: Z015341250, Policy Number: 5341250)
+  - List down all the policies with a specific line of business and a risk with vehicle year [VehicleYear] and coverage code [CoverageCode]. (Account Number: Z011331020, Policy Number: 1331020)
+  - List down the vehicles covered for my policies in my account.
+  - List down the vehicles covered under policy number 1330744 in my account.
+  - Show me the agency, policy details, and coverage details for my policy with coverage description [CoverageDescription] and risk with vehicle make [VehicleMake]. (Account Number: Z011332118, Policy Number: 6374898)
+  - Show me the agency, policy details, and risk details for my policy with vehicle year [VehicleYear]. (Account Number: Z011332015, Policy Number: 6098773)
+  - Show me the coverage for my Vehicle Insurance 
+  - Show me the coverage for my Vehicle Insurance for my policy number 1330744 
+  - Show me the coverage for my Vehicle Insurance for my policy number 1330744.
+  - What are the vehicle details (make, model, year) associated with my policy 
+  - What are the vehicle details (make, model, year) associated with my policy?
+  - What is the agency, policy details, and coverage details for my policy with coverage code [CoverageCode] and risk with vehicle make [VehicleMake]? (Account Number: Z051331923, Policy Number: 1331923)
+  - What is the agency, policy details, and risk details for my policy with risk with vehicle make [VehicleMake] and coverage code [CoverageCode]? (Account Number: Z011338797, Policy Number: 1332538)
+  - What is the agency, policy details, and risk details for my policy with vehicle unit number [VehicleUnitNumber]? (Account Number: Z015350663, Policy Number: 1331647)
+  - What is the make of the vehicle covered under vehicle unit number 001?
+  - What is the risk associated with my car insurance?
+  - What is the vehicle make and model associated with vehicle unit number 001 for my policy number 1330740?
+  - What is the vehicle make and model associated with vehicle unit number 001 for my policy number 1330744?
+  - What is the vehicle make and model of the risk with vehicle unit number [VehicleUnitNumber]? (Account Number: Z015303034, Policy Number: 6234304)
+  - What vehicles are covered under my policy number 1330740 in my account?
+  - What vehicles are covered under my policy number 1330740?
+  - Which coverage is associated with vehicle unit number 001 for my policy number 1330740?
+  - Which coverage is associated with vehicle unit number 001 for my policy number 1330744?
+  - Which coverages are included for my vehicles?
+  - Which policy has [Name] as an insured and a risk with vehicle unit number [VehicleUnitNumber] and coverage code [CoverageCode]? (Account Number: Z011331496, Policy Number: 1385241)
+  - Which vehical model insured under my policy number 1331089.
+  - Which vehicle is covered under vehicle unit number 001?
+  - Which vehicles are covered under PolicyNumber 1330740 and what are their makes and models?
+  - Which vehicles are covered under PolicyNumber 1330744 and what are their makes and models?
+  - Which vehicles are covered under my policy number 1330740?
+  - Which vehicles are covered under policy number 1330775 and what are their makes and models?
+  - Who are the drivers listed on my policy?
+  - Who is insured as a driver?
+  - Who is the Agent of my Auto policy?
+  - what vehicle is covered in my Policy
+
+Cluster 5:
+  - Show me the due date and premium amount of my policies
+  - What is my payment frequency?
+  - What is the premium due for my policy 
+  - When are all my premiums due
+  - When is the next premium due for my policy number 1330744?
+  - Are there payment plans available, and do they affect the overall cost of my policy 1331392?
+  - Can I adjust my coverage limits, and how does that affect my premium with my policy number 1331342?
+  - Can I get a breakdown of my premium payments for policy number 1330764 
+  - Can I increase the coverage amount on my existing term life insurance policy 1331028.
+  - Can I increase the premium amount of this policy?
+  - Can agency provide a breakdown of my premium costs of my policy 1331392?
+  - Can agency provide a breakdown of premium costs of my policy 1331392?
+  - Can agent provide a breakdown of my premium costs of my policy 1331392?
+  - Can you explain how the premium for my home insurance is calculated policy number 1331169.
+  - Can you explain how the premium for my home insurance is calculated policy number 1331202.
+  - How can I find out the premium due date and payment frequency for my insurance policy number 1331083.
+  - How does a claim affect my future premiums with my policy number 1331256?
+  - How is my premium calculated, and what factors affect the cost of my policy 1331202?
+  - How is my premium calculated, and what factors affect the cost of my policy 1331249?
+  - How is my premium calculated, and what factors affect the cost?
+  - How much is my deductible, and how does changing it affect my premium of policy 1331249
+  - How much is my deductible, and how does changing it affect my premium? of policy 1331249
+  - How will a claim affect my future premiums with my policy number 1330975?
+  - How will my premium be affected if I file a claim with my policy number 1331392?
+  - Show my policies with their premium due date and premium amount
+  - What deductible options are available, and how do they impact my premium with my policy number 1331342?
+  - What is my payment frequency?
+  - What is the Premum due on my policy 1330740
+  - What is the balance due on the premium for each policy?
+  - What is the balance due on the premium for policy number 1330740
+  - What is the balance due on the premium?
+  - What is the balcen due on Premium for my policy 1330740
+  - What is the cash value of my insurance policy 1331020.
+  - What is the cash value of my insurance policy 1331202.
+  - What is the current premium due for my policy number 1330740?
+  - What is the premium amount of my policy with account number Z011331202?
+  - What is the premium amount of my policy?
+  - What is the premium balance due
+  - What is the premium due and premium due date for PolicyNumber 1330744?
+  - What is the premium due for 1330744 and when is it due?
+  - What is the premium due for PolicyNumber 1330744 and when is it due?
+  - What is the premium due for my policy
+  - What is the premium due for my policy 1330755
+  - What is the premium due for my policy 1686942
+  - What is the premium due for my policy number 1330740 and when is the due date?
+  - What is the premium due for my policy number 1330740?
+  - What is the premium due for my policy number 1330740???
+  - What is the premium due for my policy with policy number 1330744?
+  - What is the premium due for my policy with policy number 1330744? 
+  - What is the premium due for my policy with policy number 1330755?
+  - What is the premium due for my policy with policy number 1330764?
+  - What is the premium due for my policy with policy number 1330767?
+  - What is the premium due for my policy with policy number 1330776?
+  - What is the premium due for my policy with policy number 1330790?
+  - What is the premium due for my policy with policy number 1330865?
+  - What is the premium due for my policy with policy number 1330961.
+  - What is the premium due for my policy with policy number 1331171?
+  - What is the premium due for policy number 1330740?
+  - What is the premium due for policy number 1330790 and when is it due?
+  - What is the premium due on my policies
+  - What is the total coverage amount of my policy with account number Z011331202?
+  - What is the total premium paid for all my policies?
+  - What is the total premium paid for my policy number 1330744?
+  - When are all my premiums due?
+  - When is the next premium due for my policy number 1330744?
+  - When is the next premium payment due for my policy with policy number 1330775? 
+  - Which policy has the highest premium due? (Account Number: Z019574660, Policy Number: 1331168)
+  - Will my premium increase if I file a claim with my policy number 1331297?
+  - what is my payment frequency
+  - what is the balance due on the premium
+  - what is the premium balance
+  - when is my premium due
+
+Cluster 1:
+  - Are there any local or state laws that might affect my coverage needs?
+  - Are there any nominees added to this pilicy?
+  - Can I add nominees to this pilicy?
+  - Courageous.
+  - How do I integrate Cosmos DB with Python?
+  - List down all the agencies in my state. (Account Number: Z011357988, Policy Number: 1332927)
+  - List down all the coverages available for my line of business. (Account Number: Z011332047, Policy Number: 1332047)
+  - List down all the policies with a specific line of business and a risk with location unit number [LocationUnitNumber] and coverage code [CoverageCode]. (Account Number: Z011332571, Policy Number: 9419754)
+  - List down the agency details.
+  - List down the coverage details for my account number Z011465524.
+  - List down the coverage details for my account.
+  - List down the coverage details for my policy
+  - List down the coverage types for my policy.
+  - OK, yeah, it's working apparently so. OK, so leave it for now. Let's see.
+  - SHOW my polices with due dates
+  - SHOW my polices with dues
+  - Show all my coverages available for my policy number 1330744 in my account
+  - Show details of my agency
+  - Show details of my agency.
+  - Show each coverage id associated with my policy 1331202 and show the coverage description for each coverage id.
+  - Show each coverage id associated with my policy and show the coverage description for each coverage id.
+  - Show me the agency, policy details, and coverage details for my policy with coverage description [CoverageDescription]. (Account Number: Z011331937, Policy Number: 1331937)
+  - Show me the coverage description for coverage ID APV133074428|001.
+  - Show me the coverage details for my policy. (Account Number: ZZ00010458, Policy Number: 1332566)
+  - Show me the coverages associated with my account.
+  - Show my agency details.
+  - Show the coverages associated with my account.
+  - What changes in my home or lifestyle should I report to the agent?
+  - What coverages are included?
+  - What is a deductible?
+  - What is the CoverageDescription for CoverageID HO 133074014|000?
+  - What is the coverage description for coverage ID HO 133074014|000?
+  - What steps should I take to update my coverage if I make improvements to my home?
+  - what is the address of my agent
+
